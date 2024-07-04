@@ -22,7 +22,6 @@ Attenti is an AI-based attendance system designed to streamline the process of t
 1. Run the attendance script:
     ```terminal
     python attendance.py
-
 2. The system will start capturing video from the webcam and recognize faces.
 
 ## Files
